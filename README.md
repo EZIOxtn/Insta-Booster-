@@ -60,6 +60,18 @@ Instagram Booster is a powerful tool designed to enhance the visibility and enga
   -target_account: The target Instagram account to boost.
   -actions: A dictionary to enable or disable specific actions (follow, like, comment, view).
   -debug: Set to true to enable debug mode for detailed logging.
+
+
+###
+<div align="center">
+  <p>
+    <img src="https://img.shields.io/badge/Attention-Warning-red" alt="Warning">
+  </p>
+  <p>
+    <strong>Warning:</strong> This project is under active development. Breaking changes may occur in future updates.
+  </p>
+</div>
+
  ## Contributing 
  
 -We welcome contributions from the community! If you have ideas for new features or improvements, please feel free to open an issue or submit a pull request.
