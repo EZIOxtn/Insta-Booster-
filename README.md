@@ -31,10 +31,32 @@ Instagram Booster is a powerful tool designed to enhance the visibility and enga
 
 ## Installation
 
+everything should be installed automatically on start 
+
+
+```python
+   modules = [
+    "threading", "time", "requests", "datetime", "os", "base64", "tempfile", 
+    "re", "chardet", "typing", "urllib.parse", "prettytable", "concurrent.futures", 
+    "httpx", "json", "colorama"
+]
+for module in modules:
+    try:
+        __import__(module)
+    except ImportError:
+        try:
+            import os
+            os.system(f"pip install {module + "--break-system-packages" if platform.system() == 'Linux' else module}")
+        except Exception as e:
+            print(f"Failed to install module {module}: {e}")
+```
+
+
+
 ### Prerequisites
 
-- Python 3.8 or higher
-- pip (Python package installer)
+- Python 3.x
+
 
 ### Installation Steps
 
