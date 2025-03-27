@@ -1,0 +1,14 @@
+{
+  "username": "eziox01",
+  "InstaPost": "https://www.instagram.com/reel/DDk20_TNeqk/",
+  "email": "namludurda@gufum.com",
+  "password": "azerty1234",
+  "author": {
+    "name": "New Name",
+    "username": "NewAuditore",
+    "followers": 100,
+    "following": 50,
+    "private": true
+  },
+  "debug": true
+}
