@@ -1,7 +1,7 @@
 # Instagram Booster
 
 [![GitHub license](https://img.shields.io/github/license/EZIOxtn/Insta-Booster-)](https://github.com/EZIOxtn/Insta-Booster-/blob/main/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/EZIOxtn/instagram-booster)](https://github.com/EZIOxtn/Insta-Booster-/issues)
+[![GitHub issues](https://img.shields.io/github/issues/EZIOxtn/Insta-Booster-)](https://github.com/EZIOxtn/Insta-Booster-/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/EZIOxtn/Insta-Booster-)](https://github.com/EZIOxtn/Insta-Booster-/pulls)
 
 ## Table of Contents
