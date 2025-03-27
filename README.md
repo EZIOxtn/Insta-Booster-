@@ -72,9 +72,10 @@ Instagram Booster is a powerful tool designed to enhance the visibility and enga
     <img src="https://img.shields.io/badge/Attention-Warning-red" alt="Warning">
   </p>
   <p>
-    <strong>Warning:</strong> This project is under active development. Breaking changes may occur in future updates.
+    <strong>Warning:</strong> your instagram account should be Public , and the review flag should be turned off 
   </p>
 </div>
+![pictures](https://github.com/user-attachments/assets/be4ec404-8f4b-4e12-9db9-d8eba52669d3)
 
  ## Contributing 
  
