@@ -17,6 +17,8 @@
 ## Overview
 
 Instagram Booster is a powerful tool designed to enhance the visibility and engagement of Instagram accounts. It provides automated solutions to increase followers, views, likes, and comments on your Instagram content. This tool is ideal for content creators, influencers, and businesses looking to grow their Instagram presence quickly and efficiently.
+![goodprv](https://github.com/user-attachments/assets/e508915a-7e16-4ea2-bc2c-e8ad2c2b57bf)
+![Screenshot 2025-03-27 184209](https://github.com/user-attachments/assets/0f52b2f8-f362-404d-839b-f7aeffeecf3f)
 
 ## Features
 
@@ -48,7 +50,8 @@ Instagram Booster is a powerful tool designed to enhance the visibility and enga
    --Use the --start flag to start the process directly without modifying the JSON file.
    --Set specific fields in the JSON file using command-line arguments:
    --python instaboost.py --username your_username --password your_password --target_account target_username --debug
-   
+   ![startth](https://github.com/user-attachments/assets/4f2171eb-66f0-475c-8bc5-f9cae9a2f5d4)
+
 ### Configuration
 
    -The config.json file contains the following configuration options:
