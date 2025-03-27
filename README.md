@@ -47,9 +47,13 @@ Instagram Booster is a powerful tool designed to enhance the visibility and enga
 ### Advanced Usage
 
    -Command-Line Arguments:
+   
    --Use the --start flag to start the process directly without modifying the JSON file.
+   
    --Set specific fields in the JSON file using command-line arguments:
+   
    --python instaboost.py --username your_username --password your_password --target_account target_username --debug
+   
    ![startth](https://github.com/user-attachments/assets/4f2171eb-66f0-475c-8bc5-f9cae9a2f5d4)
 
 ### Configuration
