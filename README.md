@@ -1,4 +1,17 @@
 # Instagram Booster
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e5dd1d56-9879-49a2-9015-5d39c41deb2f" alt="Insta Booster Logo" width="300" height="300">
+</p>
+
+<p align="center">
+  <h1>Insta Booster</h1>
+</p>
+
+<p align="center">
+  <strong>A powerful tool to boost your Instagram presence.</strong>
+</p>
+
+###
 
 [![GitHub license](https://img.shields.io/github/license/EZIOxtn/Insta-Booster-)](https://github.com/EZIOxtn/Insta-Booster-/blob/main/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/EZIOxtn/Insta-Booster-)](https://github.com/EZIOxtn/Insta-Booster-/issues)
