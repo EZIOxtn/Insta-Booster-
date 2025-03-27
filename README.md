@@ -42,27 +42,32 @@ Instagram Booster is a powerful tool designed to enhance the visibility and enga
    cd instagram-booster
    python3 instabooster.py```
 
-###Advanced Usage
+### Advanced Usage
+
    -Command-Line Arguments:
    --Use the --start flag to start the process directly without modifying the JSON file.
    --Set specific fields in the JSON file using command-line arguments:
    --python instaboost.py --username your_username --password your_password --target_account target_username --debug
-###Configuration
-   -The config.json file contains the following configuration options:
+   
+### Configuration
 
+   -The config.json file contains the following configuration options:
   -username: Your Instagram username.
   -password: Your Instagram password.
   -target_account: The target Instagram account to boost.
   -actions: A dictionary to enable or disable specific actions (follow, like, comment, view).
   -debug: Set to true to enable debug mode for detailed logging.
-  ##Contributing
+ ## Contributing 
+ 
 -We welcome contributions from the community! If you have ideas for new features or improvements, please feel free to open an issue or submit a pull request.
 
 
-##License
+## License
+
 -This project is licensed under the MIT License. See the LICENSE file for details.
 
-##Contact
+## Contact
+
 -For any questions or support, please contact us at:
 
 
