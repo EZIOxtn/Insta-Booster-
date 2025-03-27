@@ -4,10 +4,6 @@
 </p>
 
 <p align="center">
-  <h1>Insta Booster</h1>
-</p>
-
-<p align="center">
   <strong>A powerful tool to boost your Instagram presence.</strong>
 </p>
 
