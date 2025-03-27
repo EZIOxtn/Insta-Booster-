@@ -71,9 +71,9 @@ for module in modules:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/instagram-booster.git
-   cd instagram-booster
-   python3 instabooster.py```
+   git clone https://github.com/EZIOxtn/Insta-Booster-.git
+   cd Insta-Booster-
+   python3 main.py```
 
 ### Advanced Usage
 
