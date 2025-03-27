@@ -77,6 +77,8 @@ for module in modules:
 
 ### Advanced Usage
 
+   - you should enter the FAKE insta account , it will be banned  , the target is your main insta account
+
    -Command-Line Arguments:
    
    --Use the --start flag to start the process directly without modifying the JSON file.
