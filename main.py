@@ -184,6 +184,7 @@ def scrape_m2(user):
 }
     try:
         r = requests.get('https://fanhub.pro/tucktools_user', params=params, headers=headers)
+        print(r.content)
         try:
             js = r.json()
             f = extract_fields(js,"U2")
@@ -218,7 +219,7 @@ def from_radix(digits, radix):
 def scrape_user(username: str) -> Dict:
     try:
         result = client.get(f"https://i.instagram.com/api/v1/users/web_profile_info/?username={username}")
-        
+        print(result.content)
         try:
             data = json.loads(result.content)
             
@@ -574,7 +575,7 @@ def start():
         #print("starting method 2 ...")
         Udata = scrape_m2(target)
         if Udata == {}:
-            print("Error Type 'Unknown'")
+            print("Error Type 'Unknown', or no account associated with this name")
             return
         
     time.sleep(3)
@@ -1146,13 +1147,10 @@ def main():
             print(Fore.RED + "\n script stopped , good bye")
             exit(1)
 
-    if not any([args.username, args.insta_post, args.email, args.password, args.debug]):
-        print("No arguments provided. Use --help for more information.")
-        parser.print_help()
-        return
+    
 
-    setConfig( args.username, args.insta_post, args.email, args.password, args.debug)
-    print(f"Configuration updated in {args.filename}")
+    setConfig( args.username, args.insta_post, args.email, args.password, args.debug) if args.username != None else (print())
+    print(f"Configuration updated ")
     try:
     
         start()
