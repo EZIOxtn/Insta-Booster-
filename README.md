@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <strong>A powerful tool to boost your Instagram presence.</strong>
+  <strong>A powerful tool to boost your Instagram presence. (thers some issues ill fix them later )</strong>
 </p>
 
 ###
