@@ -10,5 +10,5 @@
     "following": 50,
     "private": true
   },
-  "debug": true
+  "debug": false
 }
